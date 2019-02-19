@@ -1,0 +1,7 @@
+C:\Users\Ninio\source\repos\BrainFuck\BrainFuck\bin\Debug\BrainFuck.exe.config
+C:\Users\Ninio\source\repos\BrainFuck\BrainFuck\bin\Debug\BrainFuck.exe
+C:\Users\Ninio\source\repos\BrainFuck\BrainFuck\bin\Debug\BrainFuck.pdb
+C:\Users\Ninio\source\repos\BrainFuck\BrainFuck\obj\Debug\BrainFuck.csprojAssemblyReference.cache
+C:\Users\Ninio\source\repos\BrainFuck\BrainFuck\obj\Debug\BrainFuck.csproj.CoreCompileInputs.cache
+C:\Users\Ninio\source\repos\BrainFuck\BrainFuck\obj\Debug\BrainFuck.exe
+C:\Users\Ninio\source\repos\BrainFuck\BrainFuck\obj\Debug\BrainFuck.pdb
